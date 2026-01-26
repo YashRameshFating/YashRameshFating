@@ -11,7 +11,7 @@
 - MySQL, MongoDB
 - HTML, CSS, Basics of JavaScript
 - Git & GitHub
-
+- Node js ,Express js 
 ---
 
 ## 📌 Projects
@@ -22,12 +22,6 @@
 🔹 **Student Management System**  
 - Java + JDBC based project  
 
----
-
-## 📜 Certifications
-- Java Programming – XYZ Platform
-- Spring Boot – ABC Course
-- DBMS & SQL – Online Certification
 
 ---
 

@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Yash Fating
 
-<!--
-**YashRameshFating/YashRameshFating** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Backend Developer (Java, Spring Boot)  
+🌱 Currently learning Full Stack Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Java, JDBC, Spring Core, Spring Boot
+- MySQL, MongoDB
+- HTML, CSS, Basics of JavaScript
+- Git & GitHub
+
+---
+
+## 📌 Projects
+🔹 **Hospital Management System**  
+- Backend using Spring Boot & MySQL  
+- REST APIs, CRUD Operations  
+
+🔹 **Student Management System**  
+- Java + JDBC based project  
+
+---
+
+## 📜 Certifications
+- Java Programming – XYZ Platform
+- Spring Boot – ABC Course
+- DBMS & SQL – Online Certification
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/your-profile
+- Email: yourmail@gmail.com
+

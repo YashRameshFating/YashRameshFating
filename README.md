@@ -26,6 +26,6 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: yourmail@gmail.com
+- LinkedIn: www.linkedin.com/in/yash-fating-821682293
+- Email: yfating74@gmail.com
 

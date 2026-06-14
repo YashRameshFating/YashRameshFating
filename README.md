@@ -7,11 +7,11 @@
 ---
 
 ## 🛠 Tech Stack
-- Java, JDBC, Spring Core, Spring Boot
+- Java, JDBC, Spring Core, Spring Boot,Spring Securtiy ,Spring AI
 - MySQL, MongoDB
 - HTML, CSS, Basics of JavaScript
-- Git & GitHub
-- Node js ,Express js 
+- Git & GitHub ,Render
+- Docker ,Kubernates
 ---
 
 ## 📌 Projects
@@ -19,9 +19,12 @@
 - Backend using Spring Boot & MySQL  
 - REST APIs, CRUD Operations  
 
-🔹 **Student Management System**  
-- Java + JDBC based project  
+🔹 AI Email Reply Generator
 
+Full-Stack AI-powered application using Spring Boot, React, and Gemini AI
+Generates context-aware email replies in multiple tones
+Chrome Extension integration for seamless Gmail response generation
+REST APIs, Dockerized Deployment, Responsive UI
 
 ---
 
